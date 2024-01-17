@@ -1,4 +1,4 @@
-package com.saga.order.config;
+package com.saga.shipping.config;
 
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.security.AnyTypePermission;
