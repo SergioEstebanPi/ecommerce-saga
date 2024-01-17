@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  axon-server:
+    image: axoniq/axonserver
+    container_name: axon-server
+    ports:
+      - 8124:8124
+      - 8024:8024
